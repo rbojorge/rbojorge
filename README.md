@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Rommel Bojorge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Rommel
 
-I am a Data & Solution Architect focusing on crafting scalable business intelligence solutions, from data extraction and transformation, modeling all the way to visualization, setting up and using such tools (just to name a few) as Azure Databricks, Microsoft Fabric, Azure SQL Server, Microsoft SQL Server, SQL Server Integration Services, Infor Data Fabric, Infor Birst, Power BI, Tableau, and SQL Server Reporting Services.
+Data & Solution Architect | AI & BI Specialist
+
+I specialize in crafting scalable business intelligence solutions, encompassing data extraction, transformation, modeling, and visualization. My expertise spans a range of tools and platforms, including:
+	•	Data Platforms: Azure Databricks, Microsoft Fabric, Infor Data Fabric
+	•	BI & Visualization: Databricks Genie, Power BI, Tableau, Infor Birst
+
+Beyond my professional life, I’m a dedicated father to two daughters. I prioritize family, continuous learning, and maintaining a healthy lifestyle.
 
 
 <!---
