@@ -1,6 +1,6 @@
-👋 Hi, I’m Rommel
+# 👋 Hi, I’m Rommel
 
-Data & Solution Architect | AI & BI Specialist
+**Data & Solution Architect | AI & BI Specialist**
 
 I specialize in crafting scalable business intelligence solutions, encompassing data extraction, transformation, modeling, and visualization. My expertise spans a range of tools and platforms, including:
 	•	Data Platforms: Azure Databricks, Microsoft Fabric, Infor Data Fabric
