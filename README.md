@@ -8,6 +8,7 @@ I specialize in crafting scalable business intelligence solutions, encompassing 
 
 Beyond my professional life, I’m a dedicated father to two daughters. I prioritize family, continuous learning, and maintaining a healthy lifestyle.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!---
 rbojorge/rbojorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
