@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rommel
 
-**Data & Solution Architect | AI & BI Specialist**
+**Data & Solution Architect | AI, ML & BI Specialist**
 
 I specialize in crafting scalable business intelligence solutions, encompassing data extraction, transformation, modeling, and visualization.
 
